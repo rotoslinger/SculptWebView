@@ -170,7 +170,7 @@ function useDefaultData() {
 
     );
 }
-
+useDefaultData();
 
 function onWindowResize() {
 
