@@ -1,6 +1,6 @@
 # OBJ Viewer
 
-Online demo: [http://xmlyqing00.github.io/OBJViewer](http://xmlyqing00.github.io/OBJViewer). 
+Online demo: [https://rotoslinger.github.io/SculptWebView/]([http://xmlyqing00.github.io/OBJViewer](https://rotoslinger.github.io/SculptWebView/)). 
 
 This project is based on [three.js](https://github.com/mrdoob/three.js)
 
