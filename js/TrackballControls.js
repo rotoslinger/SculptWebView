@@ -136,7 +136,7 @@ THREE.TrackballControls = function ( object, domElement ) {
 		var axis = new THREE.Vector3(),
 			quaternion = new THREE.Quaternion(),
 			eyeDirection = new THREE.Vector3(),
-			objectUpDirection = new THREE.Vector3(),
+			objectUpDirection = new THREE.Vector3(0,0,-1),
 			objectSidewaysDirection = new THREE.Vector3(),
 			moveDirection = new THREE.Vector3(),
 			angle;
