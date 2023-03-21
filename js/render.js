@@ -1,4 +1,4 @@
-var objPath = './Oni.obj';
+var objPath = './Leonardo.obj';
 var scale = 2.5;
 var INF = 100000000;
 
